@@ -4,11 +4,7 @@
 
 <h3>Full Stack Lead Engineer | Flutter · Swift · Node.js · React</h3>
 
-<p>🔧 With <strong>5+ years of professional experience</strong>, I design and build scalable <strong>mobile</strong> and <strong>web</strong> applications — with a strong focus on clean architecture and pixel-perfect UI.</p>
-
-<p>🚀 Successfully developed and launched <strong>10+ Applications</strong> across <strong>fintech, ride-hailing, health, productivity, and e-commerce</strong> — handling everything from backend APIs to App Store deployment.</p>
-
-<p>🎨 I thrive in end-to-end product delivery — from <strong>Figma wireframes</strong> through development, testing, and <strong>App Store launch</strong>.</p>
+<p align="left">With <strong>5+ years of experience</strong>, I design and build scalable <strong>mobile and web applications</strong> using <strong>Flutter, Swift, SwiftUI, Node.js, and React</strong>. I have successfully launched <strong>10+ applications</strong> across fintech, ride-hailing, health, and e-commerce — handling everything from backend APIs to App Store deployment, taking products from <strong>Figma wireframes</strong> all the way to production.</p>
 
 </div>
 
@@ -23,7 +19,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/mrusama_357">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   &nbsp;
