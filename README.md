@@ -4,7 +4,7 @@
 
 <h3>Full Stack Lead Engineer | Flutter · Swift · Node.js · React</h3>
 
-<p align="left">With <strong>5+ years of experience</strong>, I design and build scalable <strong>mobile and web applications</strong> using <strong>Flutter, Swift, SwiftUI, Node.js, and React</strong>. I have successfully launched <strong>10+ applications</strong> across fintech, ride-hailing, health, and e-commerce — handling everything from backend APIs to App Store deployment, taking products from <strong>Figma wireframes</strong> all the way to production.</p>
+<p align="left">With <strong>6+ years of experience</strong>, I design and build scalable <strong>mobile and web applications</strong> using <strong>Flutter, Swift, SwiftUI, Node.js, and React</strong>. I have successfully launched <strong>20+ applications</strong> across fintech, ride-hailing, health, and e-commerce — handling everything from backend APIs to App Store deployment, taking products from <strong>Figma wireframes</strong> all the way to production.</p>
 
 </div>
 
